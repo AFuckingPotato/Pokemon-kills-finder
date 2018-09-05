@@ -19,3 +19,4 @@ This is my program to analyze a Pokémon showdown replay, however, it is still a
     - Burn
     - Hazards (stealth rock and spikes)
   - Creating a GUI
+
